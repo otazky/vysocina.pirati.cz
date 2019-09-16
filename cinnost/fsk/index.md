@@ -226,7 +226,17 @@ class="c-program-candidate-badge__avatar-image"></div><div class="c-program-cand
 </span></h4><strong class="c-program-candidate-badge__profession">
             Slamový básník, kterého nikdo nezná. Scenárista, jenž se nedostal napoprvé na FAMU o šest bodů. Režisér, jehož krátký dokument měl premiéru na Ukrajině u ruských hranic. Cestovatel, který málem umřel na podchlazení v Londýně. Umělec, jenž to slovo nesnáší a nepovažuje se za něj. Rodák z Třebíče, který už pět let žije ve Vladislavi a z toho čtyři roky studoval střední filmovku ve Zlíně. Jestli jsem vás neodradil svým popisem, rád se s vámi potkám na svém sólo slamu před Trubkou! Tak 27. v pátek, pokud mi neujede vlak!
 </strong></div></div></div>
-  
+ 
+<div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
+            src="ZDE CHYBI OBRAZEK" 
+            alt="Milus Kotisova" 
+class="c-program-candidate-badge__avatar-image"></div><div class="c-program-candidate-badge__description"><h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">
+            Miluš  Kotišová
+</span></h4><strong class="c-program-candidate-badge__profession">
+            Překladatelka, lektorka cizích jazyků, metodička sebeřízeného a svobodného učení. V roce 2017 založila Pirátskou putovní univerzitu, iniciativu zdola v České pirátské straně usilující o inovace ve vzdělávání i v politice. Jako její kurátorka zde rozvíjí koncept vědomého vnořeného učení v rámci politické praxe. PPU podporuje a rozvíjí deliberativní a participativní přístupy/metodiky, dělá vlastní výzkum (!) s důrazem na důslednou syntézu vědění, rozvíjí koncept péče jako jeden z kontrapunktů k silovému aspektu politiky a v neposlední řadě dialogickou kulturu spolupráce a nenásilí. 
+V letošním roce Miluš vydala knihu Jazyk nepoznaný: peníze, kde přináší důkazy, že peníze jsou jazyk a co z toho plyne pro politiku a společnost obecně. Aktuálně proto rozvíjí tzv. vícerozměrnou cenu, která slouží jako informace nikoli pro spotřebitele, ale občana. Za nejdůležitější studijní program PPU považuje Vzdělávací architekturu, která zkoumá 5. a 6. rozměr veřejného prostoru.
+</strong></div></div></div>
+ 
 <div class="c-program-candidates"><div class="c-program-candidate-badge"><div class="c-program-candidate-badge__avatar"><img 
             src="https://raw.githubusercontent.com/pirati-web/vysocina.pirati.cz/master/assets/img/fsk/ortodoxni_jidas.png" 
             alt="Ortodoxní Jidáš" 
